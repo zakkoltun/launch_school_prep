@@ -1,0 +1,3 @@
+5. The first one prints 3, and the second one errors because x isn't defined in the scope of the puts statement at the end. 
+
+6. The code references either a variable or method "shoes" that hasn't been defined or is out of the scope of the call.
