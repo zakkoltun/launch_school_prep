@@ -1,0 +1,1 @@
+# A. since arrays don't have explicit indices (they're indexed by order)
